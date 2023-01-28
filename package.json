@@ -4,6 +4,8 @@
   "description": "Nodejs, express and typescript starter",
   "main": "server.js",
   "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/index.js",
     "dev": "nodemon"
   },
   "repository": {
