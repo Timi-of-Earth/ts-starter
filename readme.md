@@ -1,7 +1,6 @@
 ```bash
 Hey There! 🙌
 Read the Doc Carefully before cloning to understand the general structure of the application.
-Kerapay V2 is built using Nodejs, Express and Typescript.
 ```
 
 A NodeJs Application 🚀 [Node.js](https://nodejs.org/en).
