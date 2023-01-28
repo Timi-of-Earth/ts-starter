@@ -1,5 +1,5 @@
 {
-  "name": "kerapay",
+  "name": "ts-starter",
   "version": "2.0.0",
   "description": "Nodejs, express and typescript starter",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamveekthorr/ts-starte.git"
+    "url": "git+https://github.com/iamveekthorr/ts-starter.git"
   },
   "keywords": [
     "nodejs",

@@ -10,7 +10,6 @@ A NodeJs Application 🚀 [Node.js](https://nodejs.org/en).
 - This Application is built using [Express.js](https://expressjs.com/) web framework, and is using [Typescript Lang](https://www.typescriptlang.org/) for writing the app's logic.
 - For storing custom constant configurations within the `process.env` - [dotenv](https://www.npmjs.com/package/dotenv) package is used.
 - For validating custom constant configurations within the `process.env` - [envalid](https://www.npmjs.com/package/envalid) package is used.
-- For Database - Repo contains the use of [Mongoose](https://mongoosejs.com/) (ie. [MongoDB](https://www.mongodb.com/) object modeling for [Node.js](https://nodejs.org/en/)).
 
 # Contents
 
@@ -24,7 +23,6 @@ A NodeJs Application 🚀 [Node.js](https://nodejs.org/en).
 - node (>=16.1.0)
 - ts-node (~ 10.6.0)
 - typescript (~ 4.6.4)
-- mongoose (>= 6.4.0)
 
 # App Structure
 
